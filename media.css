@@ -1,0 +1,142 @@
+@media screen and (max-width:767px){ 
+    .main .container{
+        padding: 20px 0;
+    }
+    .title h2 {
+        font-size: 35px;
+    }
+    .title h4 {
+        font-size: 20px;
+    }
+    .about .container-about .item{
+        width: 100%;
+    }
+    .about .container-about {
+        
+        width:100%;
+    }
+    .about-title{
+        width: 100%;
+        padding-top: 20px;
+    }
+    .about .btn {
+        margin-top: 10px;
+    }
+    .service-item {
+        width:100%;
+        margin-top: 25px;
+    }
+    .service-item p{
+        width:100%
+    }
+    .service {
+        height: 1430px;
+    }
+    .portofilio .porto-link li {
+        display: inline-block;
+        margin: 5px;
+    }
+    .porto-img {
+        width:100%;
+    }
+    .count-item {
+        width:100%
+    }
+    .testimonial .container h2 {
+        font-size: 30px;
+    }
+    .testimonial .container {
+        width: 100%;
+    }
+    .testimonial .container .test-item {
+        margin: 0;
+        width:100%;
+        margin-top:20px
+    }
+    .testimonial .container h2{
+        padding: 10px 0;
+    }
+    .blog {
+        height: 1600px;
+    }
+    .blog .blog-container {
+        width: 100%;
+    }
+    .blog-item{
+        width: 100%;
+    }
+
+     .first input, .contact-two input , .contact-three textarea{
+        width:100%
+     }
+     .count-item h5 {
+        font-size: 15px;
+     }
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:768px) and (max-width:991px){
+    .main .container{
+        padding: 20px 0;
+    }
+    .title h2 {
+        font-size: 40px;
+    }
+    .title h4 {
+        font-size: 25px;
+    }
+    .about .container-about .item{
+        width: 100%;
+    }
+    .about .container-about {
+        
+        width:100%;
+    }
+    .about-title{
+        width: 100%;
+        padding-top: 20px;
+    }
+    .about .btn {
+        margin-top: 10px;
+    }
+    .service-item {
+        width:48%;
+        margin-top: 25px;
+    }
+    .service-item p{
+        width:100%
+    }
+    .porto-img {
+        width:50%;
+    }
+    .count-item {
+        width:50%
+    }
+    .testimonial .container {
+       width:100%
+    }
+    .blog {
+        height: 1200px;
+    }
+    .blog .blog-container {
+        width: 100%;
+    }
+    .blog-item{
+        width: 50%;
+    }
+
+}
+
+
+
